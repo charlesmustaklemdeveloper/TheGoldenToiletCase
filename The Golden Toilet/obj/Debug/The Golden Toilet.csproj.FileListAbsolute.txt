@@ -1,0 +1,7 @@
+C:\ElevenFiftyProjects\DotNetProjects\The Golden Toilet\The Golden Toilet\obj\Debug\The Golden Toilet.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\DotNetProjects\The Golden Toilet\The Golden Toilet\obj\Debug\The Golden Toilet.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\The Golden Toilet\The Golden Toilet\bin\Debug\The Golden Toilet.exe.config
+C:\ElevenFiftyProjects\DotNetProjects\The Golden Toilet\The Golden Toilet\bin\Debug\The Golden Toilet.exe
+C:\ElevenFiftyProjects\DotNetProjects\The Golden Toilet\The Golden Toilet\bin\Debug\The Golden Toilet.pdb
+C:\ElevenFiftyProjects\DotNetProjects\The Golden Toilet\The Golden Toilet\obj\Debug\The Golden Toilet.exe
+C:\ElevenFiftyProjects\DotNetProjects\The Golden Toilet\The Golden Toilet\obj\Debug\The Golden Toilet.pdb
